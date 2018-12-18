@@ -21,10 +21,10 @@ A [Node.JS](https://nodejs.org) library to consume Google Translate for free.
 ## Installation
 ```bash
 # Stable version, from npm repository
-npm install --save @k3rn31p4nic/google-translate-api
+npm install --save @wjay/google-translate-api
 
 # Latest version, from GitHub repository
-npm install --save k3rn31p4nic/google-translate-api
+npm install --save wjay/google-translate-api
 ```
 
 ## Usage
