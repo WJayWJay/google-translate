@@ -73,7 +73,7 @@ async function translate(text, options) {
           }
         }
       ];
-      requestOptions[1] = JSON.stringify(requestOptions[1]);
+      requestOptions[1]['body'] = JSON.stringify(requestOptions[1]['body']);
     }
     else {
       requestOptions = [ url ];
